@@ -1,0 +1,9 @@
+{
+    "prettier.bracketSameLine": true,
+    "prettier.singleAttributePerLine": true,
+    "prettier.htmlWhitespaceSensitivity": "css",
+    "prettier.proseWrap": "preserve",
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.arrowParens": "always"
+}
