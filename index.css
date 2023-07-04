@@ -27,4 +27,5 @@ canvas{
 .sidebar > button {
     outline: none !important;
     background-color: white;
+    border: solid 1px black;
 }
